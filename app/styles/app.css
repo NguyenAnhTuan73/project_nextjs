@@ -1,0 +1,19 @@
+.red {
+  color: red;
+  border: 1px solid red;
+}
+.green {
+  color: green;
+  border: 1px solid green;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
